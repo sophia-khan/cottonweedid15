@@ -19,7 +19,7 @@ To develop and evaluate CNN-based weed detection systems capable of identifying 
 
 ## 🧪 Dataset
 
-* Source: [CottonWeedID15](https://www.kaggle.com/datasets/ashnavi/cottonweedid15)
+* Source: [CottonWeedID15](https://www.kaggle.com/datasets/yuzhenlu/cottonweedid15)
 * 5187 RGB images across 15 weed classes
 * Split: 65% training / 20% validation / 15% test
 * Preprocessing: Image resizing, normalization to \[-1, 1], data augmentation (rotation, flip)
@@ -38,10 +38,8 @@ To develop and evaluate CNN-based weed detection systems capable of identifying 
 
 🎬 **Watch the GUI in action:**
 
-
-```markdown
 https://github.com/user-attachments/assets/4405c4ea-2e4c-4aa2-82a0-f613318428b1
-```
+
 
 ---
 
@@ -78,6 +76,3 @@ This research was conducted at **Fort Valley State University** under the mentor
 * Chen et al. (2022). *Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems.* Computers and Electronics in Agriculture.
 * Datta et al. (2021). *Soft-Attention Improves Skin Cancer Classification Performance.* medRxiv.
 
----
-
-Would you like help uploading your GUI video or generating a thumbnail preview for embedding?
